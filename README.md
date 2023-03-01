@@ -1,2 +1,2 @@
-# Cruse-Control-System-Based-on-AVR
-Cruse Control System for NTI Based on AVR
+# Cruise-Control-System-Based-on-AVR
+Cruise  Control System for NTI Based on AVR
